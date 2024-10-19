@@ -1,13 +1,13 @@
 {
-  "name": "raganork-md",
+  "name": "SDinu-md",
   "version": "5.0.0",
   "description": "A light weight WhatsApp bot.",
   "scripts": {
-    "start": "pm2 start . --attach --name Raganork"
+    "start": "pm2 start . --attach --name SDinu"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/souravkl11/raganork-md.git"
+    "url": "git+https://github.com/SDinukxs/WAbotMD.git"
   },
   "overrides": {
     "raganork-bot": {
@@ -22,7 +22,7 @@
   "author": "Sourav",
   "developer": "@souravkl11",
   "license": "GPL-3.0-or-later",
-  "homepage": "https://github.com/souravkl11/raganork#readme",
+  "homepage": "https://github.com/SDinukxs/WAbotMD#readme",
   "dependencies": {
     "@adiwajshing/baileys": "git+https://github.com/souravkl11/Baileys.git",
     "@adiwajshing/keyed-db": "0.2.4",
